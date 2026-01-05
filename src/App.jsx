@@ -12,7 +12,8 @@ function App() {
     <h5>developer</h5>
      <p>ERP multi store</p>
      <h6>ERP omnistore</h6>
-    </>
+     <h3>ERP STORE</h3>
+     </>
   )
 }
 
