@@ -9,6 +9,8 @@ function App() {
   return (
     <>
     <h1>Welcome to ERP Project</h1>
+    
+    <h2>start the project</h2>
     </>
   )
 }
