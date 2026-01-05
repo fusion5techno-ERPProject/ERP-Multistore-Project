@@ -11,6 +11,7 @@ function App() {
     <h1>Welcome to ERP Project</h1>
     
     <h2>start the project</h2>
+     <p>ERP multi store</p>
     </>
   )
 }
